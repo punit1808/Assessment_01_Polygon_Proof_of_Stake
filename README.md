@@ -6,6 +6,7 @@ This project is to create our own 5 NFT's and deploy them on sepolia testnet and
 ### Minting new NFT's : We will be minting NFT's to sepolia testnet using infura.
 ### Approve and Deposit NFT's : Then we will approve and deposit our NFT's to fxERC71RootAddress which is verified and published it will deposit our NFT's on amoy testnet network.
 ### getBalance : By this will check if NFT's are present on amoy network or not.
+### promptDescription : It will returns the prompt we used to generate the images.
 
 ## Getting Started
 
